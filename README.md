@@ -146,7 +146,6 @@ We welcome contributions! Fork the repository and submit a pull request with you
 
 ## 🐛 Known Issues
 
-- Limited to Mode 3 graphics rendering (direct color only)
 - Audio synthesis may be CPU-intensive
 - Not yet tested on actual TCL L5 device
 
